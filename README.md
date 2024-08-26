@@ -1,4 +1,4 @@
-## ZombieX Suggestions 💡
+## viola Suggestions 💡
 **How to use [ English ]**
 Create a file named `.env` Put the following in it
 
